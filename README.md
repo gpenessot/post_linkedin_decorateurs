@@ -16,7 +16,7 @@ Découvrez 5 exemples pratiques de décorateurs Python qui peuvent améliorer vo
 
 1. Clonez le repository :
 ```bash
-git clone [votre-url-github]
+git clone git@github.com:gpenessot/post_linkedin_decorateurs.git
 ```
 
 2. Ouvrez le notebook Jupyter :
